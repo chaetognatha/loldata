@@ -24,6 +24,10 @@ written to games.json
 games.json can then be flattened and parsed into a dataframe for further
 analysis
 
+EDA reveals there are large differences in popularity of champions so I 
+decided to scale values by the relative number of games played on champions
+and then average
+
 ## Data availability
 
 you can download the data from:
