@@ -23,3 +23,8 @@ written to games.json
 
 games.json can then be flattened and parsed into a dataframe for further
 analysis
+
+## Data availability
+
+you can download the data from:
+https://drive.google.com/drive/folders/1-21tjIiBd_8ecTudYdSk0WczH2XkH1Cg?usp=sharing
